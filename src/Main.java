@@ -16,5 +16,5 @@ public class Main {
             System.out.println("It's sunny outside so bring your shades!");
         }
         // Testing some if conditions
-    }
+    } // Push update test
 }
